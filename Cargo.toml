@@ -7,4 +7,5 @@ members = [
     "exporter",
     "monitoring",
     "cli",
+    "common",
 ]
