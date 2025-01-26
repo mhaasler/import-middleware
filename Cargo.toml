@@ -1,0 +1,10 @@
+[workspace]
+members = [
+    "api",
+    "storage",
+    "queue",
+    "processor",
+    "exporter",
+    "monitoring",
+    "cli",
+]
